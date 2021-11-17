@@ -1,7 +1,8 @@
 # Scala : Functional Type Queue
 
 ## Functional Type Queue
-
+Data structure with first get, enqueue, dequeue.  
+Even if the element is enqueue / dequeue, the contents are not changed and a new queue is returned.  
 
 ## Sample Code
 ```Scala
